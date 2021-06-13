@@ -1,0 +1,9 @@
+
+train: ../yolov5_csgo/images/
+val: ../yolov5_csgo/images/
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'T', 'CT' ]
